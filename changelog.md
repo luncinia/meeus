@@ -4,6 +4,7 @@
 
 Bug fixes: Fixed bugs in a few coefficients.
 
+
 ## v3.0.1, 9 May 2018
 
 Bug fix: Fixed a hardcoded path separator character.
