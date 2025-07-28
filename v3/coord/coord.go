@@ -21,7 +21,7 @@ package coord
 import (
 	"math"
 
-	"github.com/soniakeys/meeus/v3/globe"
+	"github.com/soniakeys/luncinia/v3/globe"
 	"github.com/soniakeys/unit"
 )
 
