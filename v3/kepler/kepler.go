@@ -7,7 +7,7 @@ package kepler
 import (
 	"math"
 
-	"github.com/soniakeys/meeus/v3/iterate"
+	"github.com/luncinia/meeus/v3/iterate"
 	"github.com/soniakeys/unit"
 )
 
