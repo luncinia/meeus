@@ -30,9 +30,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/soniakeys/meeus/v3/base"
-	"github.com/soniakeys/meeus/v3/coord"
-	"github.com/soniakeys/meeus/v3/precess"
+	"github.com/luncinia/meeus/v3/base"
+	"github.com/luncinia/meeus/v3/coord"
+	"github.com/luncinia/meeus/v3/precess"
 	"github.com/soniakeys/unit"
 )
 
