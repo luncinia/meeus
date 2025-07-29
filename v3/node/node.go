@@ -7,7 +7,7 @@ package node
 import (
 	"math"
 
-	"github.com/soniakeys/meeus/v3/base"
+	"github.com/luncinia/meeus/v3/base"
 	"github.com/soniakeys/unit"
 )
 
