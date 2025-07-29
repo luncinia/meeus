@@ -20,10 +20,10 @@
 package deltat
 
 import (
-	"github.com/soniakeys/meeus/v3/base"
-	"github.com/soniakeys/meeus/v3/interp"
-	"github.com/soniakeys/meeus/v3/julian"
-	"github.com/soniakeys/unit"
+	"github.com/luncinia/meeus/v3/base"
+	"github.com/luncinia/meeus/v3/interp"
+	"github.com/luncinia/meeus/v3/julian"
+	"github.com/luncinia/unit"
 )
 
 // Table10A encodes ΔT for the range of years tableYear1 to tableYearN.
