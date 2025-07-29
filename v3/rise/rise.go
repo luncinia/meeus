@@ -18,13 +18,13 @@ import (
 	"errors"
 	"math"
 
-	"github.com/soniakeys/meeus/v3/deltat"
-	"github.com/soniakeys/meeus/v3/elliptic"
-	"github.com/soniakeys/meeus/v3/globe"
-	"github.com/soniakeys/meeus/v3/interp"
-	"github.com/soniakeys/meeus/v3/julian"
-	pp "github.com/soniakeys/meeus/v3/planetposition"
-	"github.com/soniakeys/meeus/v3/sidereal"
+	"github.com/luncinia/meeus/v3/deltat"
+	"github.com/luncinia/meeus/v3/elliptic"
+	"github.com/luncinia/meeus/v3/globe"
+	"github.com/luncinia/meeus/v3/interp"
+	"github.com/luncinia/meeus/v3/julian"
+	pp "github.com/luncinia/meeus/v3/planetposition"
+	"github.com/luncinia/meeus/v3/sidereal"
 	"github.com/soniakeys/unit"
 )
 
