@@ -1,5 +1,11 @@
 # Change log
 
+## v3.0.6, 29 July 2025
+
+Most includes have been changed over to reference this repository to allow this library to be functional again.
+Test files includes and references to supplimental repositories from Sonia Keys have not been changed over. 
+
+
 ## v3.0.2, 27 July 2025
 
 Bug fixes: Fixed bugs in a few coefficients.
