@@ -19,10 +19,10 @@ package solar
 import (
 	"math"
 
-	"github.com/soniakeys/meeus/v3/base"
-	"github.com/soniakeys/meeus/v3/coord"
-	"github.com/soniakeys/meeus/v3/nutation"
-	pp "github.com/soniakeys/meeus/v3/planetposition"
+	"github.com/luncinia/meeus/v3/base"
+	"github.com/luncinia/meeus/v3/coord"
+	"github.com/luncinia/meeus/v3/nutation"
+	pp "github.com/luncinia/meeus/v3/planetposition"
 	"github.com/soniakeys/unit"
 )
 
