@@ -7,10 +7,10 @@ package jupitermoons
 import (
 	"math"
 
-	"github.com/soniakeys/meeus/v3/base"
-	pe "github.com/soniakeys/meeus/v3/planetelements"
-	pp "github.com/soniakeys/meeus/v3/planetposition"
-	"github.com/soniakeys/meeus/v3/solar"
+	"github.com/luncinia/meeus/v3/base"
+	pe "github.com/luncinia/meeus/v3/planetelements"
+	pp "github.com/luncinia/meeus/v3/planetposition"
+	"github.com/luncinia/meeus/v3/solar"
 )
 
 // XY used for returning coordinates of moons.
