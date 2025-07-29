@@ -23,7 +23,7 @@ import (
 	"github.com/luncinia/meeus/v3/base"
 	"github.com/luncinia/meeus/v3/interp"
 	"github.com/luncinia/meeus/v3/julian"
-	"github.com/luncinia/unit"
+	"github.com/soniakeys/unit"
 )
 
 // Table10A encodes ΔT for the range of years tableYear1 to tableYearN.
