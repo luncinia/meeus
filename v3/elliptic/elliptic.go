@@ -10,13 +10,13 @@ package elliptic
 import (
 	"math"
 
-	"github.com/soniakeys/meeus/v3/apparent"
-	"github.com/soniakeys/meeus/v3/base"
-	"github.com/soniakeys/meeus/v3/coord"
-	"github.com/soniakeys/meeus/v3/kepler"
-	"github.com/soniakeys/meeus/v3/nutation"
-	pp "github.com/soniakeys/meeus/v3/planetposition"
-	"github.com/soniakeys/meeus/v3/solarxyz"
+	"github.com/luncinia/meeus/v3/apparent"
+	"github.com/luncinia/meeus/v3/base"
+	"github.com/luncinia/meeus/v3/coord"
+	"github.com/luncinia/meeus/v3/kepler"
+	"github.com/luncinia/meeus/v3/nutation"
+	pp "github.com/luncinia/meeus/v3/planetposition"
+	"github.com/luncinia/meeus/v3/solarxyz"
 	"github.com/soniakeys/unit"
 )
 
